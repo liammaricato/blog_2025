@@ -12,3 +12,5 @@
   - Solarized mode for each theme
 - Triangular shape with clip-react and polygon
 - Rainbow animation for the logo image
+
+Esse foi um projeto desenvolvido no curso do ITS
